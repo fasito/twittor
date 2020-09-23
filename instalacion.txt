@@ -1,0 +1,13 @@
+p1 -- git init
+p2 -- git status
+p3 -- git add .
+p4 -- git commit -m "Primer comit"
+p5 -- se copia de la carpeta del cometario de git  git remote add origin https://github.com/fasito/twittoy.git
+p6 -- git remote -v
+p7 -- git push -u origin marter
+
+altualizacion
+
+p1 -- git add .
+p2 -- git commit -m ";pdificacion de la ruta del SW"
+p3 -- git push
